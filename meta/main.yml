@@ -15,5 +15,3 @@ dependencies:
   - role: uchida.docker
     version: 0.1.4
     docker_ce_version: "{{ nvidia_container_runtime_docker_version }}"
-  - role: uchida.nvidia-driver
-    version: 0.2.8
